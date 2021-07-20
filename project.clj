@@ -1,4 +1,4 @@
-(defproject replex "0.0.1"
+(defproject com.github.milankinen/replex "0.0.1"
   :description "Clojure REPL extensions"
   :url "https://github.com/milankinen/replex"
   :license {:name "MIT"

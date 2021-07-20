@@ -2,7 +2,7 @@
 
 Some convenience macros helping to utilize 120% of your Clojure REPL.
 
-[![Clojars](https://img.shields.io/clojars/v/replex?style=for-the-badge)](https://clojars.org/replex)
+[![Clojars](https://img.shields.io/clojars/v/com.github.milankinen/replex?style=flat-square)](https://clojars.org/com.github.milankinen/replex)
 
 ## Motivation
 
